@@ -1,50 +1,49 @@
-# ¡Hola! Soy Gustavo de Abreu 👋
+# Hi there! I'm Gustavo de Abreu 👋
 
-### Software Engineer Student @ FING-Udelar | GeneXus Developer | Support Specialist
+### Software Engineering Student @ FING-Udelar | Certified GeneXus Developer | Support Specialist
 
-Soy un apasionado de la tecnología y la ingeniería, con base en Uruguay. Mi enfoque principal es el desarrollo de software robusto y la resolución de problemas técnicos complejos, con una trayectoria sólida en el ecosistema GeneXus y la suite de productos de **WorkWithPlus**.
+I am a technology and engineering enthusiast based in Uruguay. My core focus lies in developing robust software and solving complex technical challenges. I have a solid track record in the GeneXus ecosystem and the **WorkWithPlus** product suite, helping clients worldwide optimize their applications.
 
 ---
 
-### 🚀 Sobre mí
+### 🚀 About Me
 
-- 💻 **Desarrollo GeneXus:** Trabajando con la herramienta desde 2018. Soy **GeneXus Developer Certified**.
-- 🛠️ **Soporte & Consultoría:** Desde 2020 en **WorkWithPlus**, brindando soporte técnico de alto nivel y ayudando a clientes de todo el mundo a potenciar sus aplicaciones.
-- 🎓 **Formación:** Estudiante de Ingeniería en Computación en la **Facultad de Ingeniería (Udelar)**.
-- 🧠 **Proyecto Destacado:** Creador de **SuperSniperPlus**, una solución avanzada de captura y edición de imágenes.
+- 💻 **GeneXus Expert:** Working with the platform since 2018. I am a **Certified GeneXus Developer**.
+- 🛠️ **Support & Consulting:** Since 2020 at **WorkWithPlus**, providing high-level technical support and assisting global clients in empowering their systems.
+- 🎓 **Education:** Currently pursuing a Software Engineering degree at **FING (Universidad de la República)**.
+- 🧠 **Current Focus:** Building **SuperSniperPlus**, an advanced image capture and layer-based editing solution powered by AI.
 
 ---
 
 ### 🛠️ Tech Stack & Skills
 
-- **Desarrollo:** GeneXus (Analista/Desarrollador), Web & Mobile Development.
+- **Development:** GeneXus (Analyst/Developer), Web & Mobile Development.
 - **DevOps & Infra:** Docker, Jenkins, CI/CD pipelines.
-- **IA:** Prompt Engineering y aplicación de modelos generativos en edición de imagen.
-- **Multimedia:** Edición profesional de foto y video.
-- **Idiomas:** - 🇪🇸 Español (Nativo)
-  - 🇧🇷 Portugués (Fluido)
-  - 🇺🇸 Inglés (Básico/Técnico)
+- **AI & Innovation:** Prompt Engineering and implementing generative models for image processing.
+- **Multimedia:** Professional photo and video editing.
+- **Languages:** - 🇪🇸 Spanish (Native)
+  - 🇧🇷 Portuguese (Fluent)
+  - 🇺🇸 English (Basic/Technical)
 
 ---
 
-### 🌟 Proyecto Principal: SuperSniperPlus
+### 🌟 Featured Project: SuperSniperPlus
 
-Actualmente lidero el desarrollo de **SuperSniperPlus**, una aplicación de captura y edición de imágenes por capas potenciada con Inteligencia Artificial.
+I am currently leading the development of **SuperSniperPlus**, a next-gen application for image capture and layered editing, enhanced with Artificial Intelligence.
 
-- 🌐 **Web oficial:** [www.supersniperplus.com](https://www.supersniperplus.com)
-- 💻 **Repositorio:** [gustavoxntc/SuperSniperPlus-App](https://github.com/gustavoxntc/SuperSniperPlus-App)
+- 🌐 **Official Website:** [www.supersniperplus.com](https://www.supersniperplus.com)
+- 💻 **Repository:** [gustavoxntc/SuperSniperPlus-App](https://github.com/gustavoxntc/SuperSniperPlus-App)
 
 ---
 
 ### 📊 GitHub Stats
-![Estadísticas de Gustavo](https://github-readme-stats.vercel.app/api?username=gustavoxntc&show_icons=true&theme=tokyonight)
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoxntc&layout=compact&theme=tokyonight)
+![Gustavo's Stats](https://github-readme-stats.vercel.app/api?username=gustavoxntc&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoxntc&layout=compact&theme=tokyonight)
 
 ---
 
-### 📫 Contacto
+### 📫 Let's Connect
 - **LinkedIn:** [linkedin.com/in/gustavodeabreu](https://www.linkedin.com/in/gustavodeabreu/)
-- **Empresa:** [WorkWithPlus](https://www.workwithplus.com/)
 
 ---
-*"Buscando la eficiencia a través del código y la innovación constante."*
+*"Driving efficiency through code and constant innovation."*
