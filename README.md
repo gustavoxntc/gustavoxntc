@@ -27,12 +27,18 @@ I am a technology and engineering enthusiast based in Uruguay. My core focus lie
 
 ---
 
-### 🌟 Featured Project: SuperSniperPlus
+### 🌟 Featured Projects: 
 
-I am currently leading the development of **SuperSniperPlus**, a next-gen application for image capture and layered editing, enhanced with Artificial Intelligence.
+**SuperSniperPlus**
+Currently leading the development of **SuperSniperPlus**, a next-gen application for image capture and layered editing, enhanced with Artificial Intelligence.
 
 - 🌐 **Official Website:** [www.supersniperplus.com](https://www.supersniperplus.com)
 - 💻 **Repository:** [gustavoxntc/SuperSniperPlus-App](https://github.com/gustavoxntc/SuperSniperPlus-App)
+
+**XNTC**
+SaaS online booking platform with WhatsApp, Mercado Pago integration, and admin panel. Helps service businesses manage appointments, staff, and payments. 
+- 🌐 **Official Website:** [xntc.uy](https://xntc.uy)
+
 
 ---
 
