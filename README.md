@@ -35,10 +35,21 @@ Currently leading the development of **SuperSniperPlus**, a next-gen application
 - 🌐 **Official Website:** [www.supersniperplus.com](https://www.supersniperplus.com)
 - 💻 **Repository:** [gustavoxntc/SuperSniperPlus-App](https://github.com/gustavoxntc/SuperSniperPlus-App)
 
-**XNTC**
-SaaS online booking platform with WhatsApp, Mercado Pago integration, and admin panel. Helps service businesses manage appointments, staff, and payments. 
-- 🌐 **Official Website:** [xntc.uy](https://xntc.uy)
 
+**XNTC - Online Booking Platform** 
+Is a SaaS booking management platform designed for service-based businesses (salons, spas, clinics, etc.).
+
+Enables each business to have:
+- 📅 Public website with online booking system
+- 💬 WhatsApp integration for automatic confirmations
+- 💳 Payments via Mercado Pago (deposits and subscriptions)
+- 📊 Admin dashboard to manage appointments, professionals, services, and branches
+- 🏢 Multi-tenancy: each company sees only their data
+- 🎨 Brand customization (logo, business name, settings)
+
+**Stack:** Next.js 15 (App Router) + React 19 + Drizzle ORM + PostgreSQL + Tailwind CSS 4
+
+👉 [XNTC](https://xntc.uy) - Create your booking website in minutes
 
 ---
 
