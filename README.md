@@ -1,4 +1,4 @@
-# Hi there! I'm Gustavo de Abreu 👋
+# Hi there! I'm Gustavo De Abreu 👋
 
 ### Software Engineering Student @ FING-Udelar | Certified GeneXus Developer | Support Specialist
 
