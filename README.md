@@ -53,12 +53,6 @@ Enables each business to have:
 
 ---
 
-### 📊 GitHub Stats
-![Gustavo's Stats](https://github-readme-stats.vercel.app/api?username=gustavoxntc&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoxntc&layout=compact&theme=tokyonight)
-
----
-
 ### 📫 Let's Connect
 - **LinkedIn:** [linkedin.com/in/gustavodeabreu](https://www.linkedin.com/in/gustavodeabreu/)
 
