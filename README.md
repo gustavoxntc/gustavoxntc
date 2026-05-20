@@ -17,7 +17,7 @@ I am a technology and engineering enthusiast based in Uruguay. My core focus lie
 
 ### 🛠️ Tech Stack & Skills
 
-- **Development:** GeneXus (Analyst/Developer), Web & Mobile Development.
+- **Development:** GeneXus Developer, Web & Mobile development.
 - **DevOps & Infra:** Docker, Jenkins, CI/CD pipelines.
 - **AI & Innovation:** Prompt Engineering and implementing generative models for image processing.
 - **Multimedia:** Professional photo and video editing.
@@ -28,13 +28,15 @@ I am a technology and engineering enthusiast based in Uruguay. My core focus lie
 ---
 
 ### 🌟 Featured Projects: 
+<br>
 
 **SuperSniperPlus**
 Currently leading the development of **SuperSniperPlus**, a next-gen application for image capture and layered editing, enhanced with Artificial Intelligence.
 
 - 🌐 **Official Website:** [www.supersniperplus.com](https://www.supersniperplus.com)
 - 💻 **Repository:** [gustavoxntc/SuperSniperPlus-App](https://github.com/gustavoxntc/SuperSniperPlus-App)
-
+<br>
+<br>
 
 **XNTC - Online Booking Platform** 
 Is a SaaS booking management platform designed for service-based businesses (salons, spas, clinics, etc.).
